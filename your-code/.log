@@ -1,0 +1,17 @@
+2023-02-21 17:23:05,415 [17528] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-02-21 17:23:05,415 [17528] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-02-21 17:23:05,415 [17528] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-02-21 17:23:05,419 [17528] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-02-21 17:23:05,419 [17528] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-02-21 17:23:05,420 [17528] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-02-21 17:30:27,446 [17528] INFO     numexpr.utils:148: [JupyterRequire] Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-02-21 17:30:27,455 [17528] INFO     numexpr.utils:160: [JupyterRequire] NumExpr defaulting to 8 threads.
+2023-02-21 17:40:51,429 [29272] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-02-21 17:40:51,430 [29272] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-02-21 17:40:51,430 [29272] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-02-21 17:40:51,434 [29272] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-02-21 17:40:51,436 [29272] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-02-21 17:40:51,437 [29272] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-02-21 18:09:41,701 [17528] WARNING  py.warnings:109: [JupyterRequire] C:\Users\axell\anaconda3\anaconda3\lib\site-packages\scipy\stats\_stats_py.py:110: RuntimeWarning: The input array could not be properly checked for nan values. nan values will be ignored.
+  warnings.warn("The input array could not be properly "
+
