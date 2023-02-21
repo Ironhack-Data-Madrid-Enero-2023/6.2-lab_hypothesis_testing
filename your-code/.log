@@ -1,0 +1,25 @@
+2023-02-21 15:13:20,152 [16371] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-02-21 15:13:20,152 [16371] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-02-21 15:13:20,152 [16371] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-02-21 15:13:20,155 [16371] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-02-21 15:13:20,156 [16371] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-02-21 15:13:20,156 [16371] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-02-21 15:13:20,441 [16318] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-02-21 15:13:20,442 [16318] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-02-21 15:13:20,442 [16318] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-02-21 15:13:20,444 [16318] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-02-21 15:13:20,444 [16318] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-02-21 15:13:20,445 [16318] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-02-21 15:13:24,326 [16371] INFO     numexpr.utils:160: [JupyterRequire] NumExpr defaulting to 4 threads.
+2023-02-21 16:07:16,760 [16371] WARNING  py.warnings:109: [JupyterRequire] /home/usuario/anaconda3/lib/python3.9/site-packages/numpy/core/fromnumeric.py:3464: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+
+2023-02-21 16:07:16,762 [16371] WARNING  py.warnings:109: [JupyterRequire] /home/usuario/anaconda3/lib/python3.9/site-packages/numpy/core/_methods.py:192: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+
+2023-02-21 17:55:24,161 [24047] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-02-21 17:55:24,161 [24047] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-02-21 17:55:24,161 [24047] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-02-21 17:55:24,163 [24047] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-02-21 17:55:24,164 [24047] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-02-21 17:55:24,164 [24047] DEBUG    root:97: [JupyterRequire] Registering comm targets.
